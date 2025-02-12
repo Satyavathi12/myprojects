@@ -1,0 +1,14 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is D2F9-EFA4
+
+ Directory of C:\Users\T.SATYA\OneDrive\Desktop\HTML,CSS projects
+
+12-02-2025  14:29    <DIR>          .
+12-02-2025  09:53    <DIR>          ..
+05-02-2025  13:25               136 mails.html
+03-02-2025  15:51               254 survey.css
+03-02-2025  15:51             1,913 survey.html
+12-02-2025  14:29                 0 text1.txt
+03-02-2025  14:30             1,109 tribute.html
+               5 File(s)          3,412 bytes
+               2 Dir(s)  408,164,470,784 bytes free

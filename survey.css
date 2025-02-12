@@ -1,0 +1,18 @@
+h1{
+text-align:center;
+border:10px solid green;
+font-size:20px;
+font-family:Arial;
+background-color:green;
+}
+button{
+text-align:center;
+font-size:30px;
+background-color:green;
+}
+form{
+border:10px solid green;
+margin:8px;
+padding:8px
+}
+
